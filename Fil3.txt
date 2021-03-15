@@ -1,3 +1,4 @@
 Använder Intellij
 
 Prövar att göra en Commit
+Nu skall vi pröva amend
